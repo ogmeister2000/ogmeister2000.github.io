@@ -1,0 +1,17 @@
+h1 {
+  color: #EF74CE;
+  font-size: 52pt;
+  text-align: center;
+}
+
+h3, h2 {
+  text-align: center;
+  font-size: 18pt;
+}
+p {
+  text-align: center;
+}
+
+#theImage {
+  width: 40%
+}
