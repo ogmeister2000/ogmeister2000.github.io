@@ -1,10 +1,5 @@
 
 function pictureChange()
     {
-          document.getElementById("theImage").src="http://cdn01.cdn.justjared.com/wp-content/uploads/headlines/2015/05/kardashians-react-bruce-jenner-special2.jpg";
-    }
-
-function pictureChange2()
-    {
-              document.getElementById("theImage").src="https://i.dailymail.co.uk/i/pix/2018/02/16/05/4942AF7900000578-5397981-image-m-96_1518760135508.jpg";
+          document.getElementById("theImage").src="https://img.buzzfeed.com/buzzfeed-static/static/2015-03/26/14/enhanced/webdr03/anigif_enhanced-buzz-10934-1427396293-5.gif";
     }
