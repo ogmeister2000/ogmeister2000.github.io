@@ -10,12 +10,13 @@ h3, h2 {
 }
 p {
   text-align: center;
+  font-family:Impact, fantasy;
 }
 
 #theImage {
   width: 40%
 }
-
 body {
-background-image: url("https://previews.123rf.com/images/rakuda69/rakuda691512/rakuda69151200087/50536140-rose-pink-glitter-background-texture.jpg");
+   background-image: url("https://3.bp.blogspot.com/-99wdOUUZYek/WYtbr4cQtQI/AAAAAAAABTw/RHCdRL3Zw-EBNA3pzu9L4q6xztQNwEUBgCLcBGAs/s1600/PinkWallpaper.png");
+   background-color: #cccccc;
 }
